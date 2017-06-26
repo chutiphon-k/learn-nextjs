@@ -1,0 +1,8 @@
+{
+  "name": "learn-nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://chutiphon-k@github.com/chutiphon-k/learn-nextjs.git",
+  "author": "Chutiphon.k <chutiphon.k@ku.th>",
+  "license": "MIT"
+}
